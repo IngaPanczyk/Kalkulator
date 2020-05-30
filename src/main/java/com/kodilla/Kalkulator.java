@@ -7,7 +7,6 @@ public class Kalkulator {
     public void add () {
         c = a + b;
     }
-
     public void subtract () {
         c = a - b;
     }

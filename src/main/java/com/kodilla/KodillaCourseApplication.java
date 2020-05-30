@@ -7,11 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class KodillaCourseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KodillaCourseApplication.class, args);
-	}
-    Kalkulator kalkulator = new Kalkulator();
-       kalkulator.add();
-       System.out.println(kalkulator);
-       kalkulator.subtract();
-       System.out.println(kalkulator);
+        SpringApplication.run(KodillaCourseApplication.class, args);
+    }
 }
